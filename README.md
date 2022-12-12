@@ -11,6 +11,14 @@ SO THAT our own site is optimized for search engines
 
 In this project I intend to modify the existing code to make it more accessible by simplifying and updating the code without altering the end product.
 
+## Deployed Link:
+
+https://bronwen27.github.io/Module-1---HTML-Refactor/
+
+## Repo Link:
+
+https://github.com/Bronwen27/Module-1---HTML-Refactor
+
 ### Installation
 
 Tasks completed:
