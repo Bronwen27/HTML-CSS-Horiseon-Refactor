@@ -1,4 +1,4 @@
-# Module-1---HTML-Refactor
+# HTML-CSS Horiseon Refactor
 Code Refactor
 
 ### User Story
@@ -13,11 +13,11 @@ In this project I intend to modify the existing code to make it more accessible 
 
 ## Deployed Link:
 
-https://bronwen27.github.io/Module-1---HTML-Refactor/
+https://bronwen27.github.io/HTML-CSS-Horiseon-Refactor/
 
 ## Repo Link:
 
-https://github.com/Bronwen27/Module-1---HTML-Refactor
+https://github.com/Bronwen27/HTML-CSS-Horiseon-Refactor
 
 ### Installation
 
