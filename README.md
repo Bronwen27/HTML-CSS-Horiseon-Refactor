@@ -29,8 +29,8 @@ Tasks completed:
 ## Usage
 
 
-! img of CSS coding relating to HTML (assets/images/screenshot(3).png)
-! img of resulting webpage (assets/images/screenshot(2).png)
+! [img of CSS coding relating to HTML] (assets/images/screenshot(3).png)
+! [img of resulting webpage] (assets/images/screenshot(2).png)
 
 ### License
 
